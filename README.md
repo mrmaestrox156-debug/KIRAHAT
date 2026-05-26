@@ -51,3 +51,4 @@ tsu -c "airmon-ng check kill"
 tsu -c "airmon-ng start wlan0"
 tsu -c "iwconfig"
 tsu -c "airodump-ng wlan0mon"
+
