@@ -1,9 +1,10 @@
 KIRAHAT v1.0
+![KIRAHAT Interface](https://i.postimg.cc/FKJcPNFv/Novo-projeto-536-9CC48D4.png)
+
 Advanced Network Reconnaissance and Security Auditing Framework
 ​KIRAHAT is a lightweight, high-performance terminal utility built in Python designed for independent security researchers, network administrators, and pentesters. Operating entirely through a streamlined, low-overhead command-line interface, the tool automates essential infrastructure diagnostics, service mapping, and wireless defense evaluations.
 ​Designed with tactical logic and strict process management, KIRAHAT acts as an orchestration layer over industry-standard binaries, providing operators with actionable insight into local networks and device resilience.
-​Interface Link
-https://i.postimg.cc/FKJcPNFv/Novo-projeto-536-9CC48D4.png
+​Interface Link. 
 ​Key Features
 ​Network Service Mapping (SCAN)
 Leverages automated nmap engines to perform fast service and version detection on target nodes, isolating open ports and mapping network topology.
